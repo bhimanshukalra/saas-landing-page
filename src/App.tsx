@@ -1,5 +1,5 @@
 function App() {
-  return <main>Video Editing</main>;
+  return <main></main>;
 }
 
 export default App;

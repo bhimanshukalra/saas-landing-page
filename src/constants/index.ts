@@ -5,13 +5,13 @@ import {
   plans,
   testimonials,
   logos,
-  Ios,
-  Android,
-  Web,
-  Windows,
+  // Ios,
+  // Android,
+  // Web,
+  // Windows,
   links,
   socials,
-} from "./constants";
+} from "./data";
 
 export {
   features,
@@ -20,10 +20,10 @@ export {
   plans,
   testimonials,
   logos,
-  Ios,
-  Android,
-  Web,
-  Windows,
+  // Ios,
+  // Android,
+  // Web,
+  // Windows,
   links,
   socials,
 };

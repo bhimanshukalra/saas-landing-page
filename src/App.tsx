@@ -1,4 +1,13 @@
-import { Features, Header, Hero, Pricing } from "./Sections";
+import {
+  Download,
+  Faq,
+  Features,
+  Footer,
+  Header,
+  Hero,
+  Pricing,
+  Testimonials,
+} from "./Sections";
 
 function App() {
   return (
@@ -7,6 +16,10 @@ function App() {
       <Hero />
       <Features />
       <Pricing />
+      <Faq />
+      <Testimonials />
+      <Download />
+      <Footer />
     </main>
   );
 }

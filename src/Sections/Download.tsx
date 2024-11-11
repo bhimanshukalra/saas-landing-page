@@ -25,7 +25,7 @@ export function Download() {
                 flavour, we've got you covered.
               </p>
               <ul className="flex flex-wrap items-center gap-6">
-                {links.map(({ id, icon, title, url }) => (
+                {links.map(({ id, icon, url }) => (
                   <li
                     key={id}
                     className="download_tech-link download_tech-link_last-before download_tech-link_last-after"
